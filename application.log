@@ -1,0 +1,28 @@
+2025-08-17 12:00:01 INFO Application started
+2025-08-17 12:05:10 ERROR Database connection failed
+2025-08-17 12:06:20 FAILURE Payment gateway timed out
+2025-08-17 14:30:00 CRITICAL Server crashed due to memory leak
+2025-08-17 14:30:00 CRITICAL Server crashed due to memory leak
+2025-08-17 13:34:58 INFO Health check passed
+2025-08-17 13:35:03 INFO Application started successfully
+2025-08-17 13:35:08 INFO Application started successfully
+2025-08-17 13:35:13 FAILURE Payment gateway timed out
+2025-08-17 13:35:18 FAILURE Payment gateway timed out
+2025-08-17 13:35:23 ERROR Database connection failed
+2025-08-17 13:35:28 INFO Health check passed
+2025-08-17 13:35:33 INFO Application started successfully
+2025-08-17 13:35:38 ERROR Database connection failed
+2025-08-17 13:35:43 ERROR Database connection failed
+2025-08-17 13:35:48 ERROR Database connection failed
+2025-08-17 13:35:53 FAILURE Payment gateway timed out
+2025-08-17 13:35:58 CRITICAL Server crashed due to memory leak
+2025-08-17 13:36:03 CRITICAL Server crashed due to memory leak
+2025-08-17 13:36:08 INFO Application started successfully
+2025-08-17 13:36:13 INFO Health check passed
+2025-08-17 13:36:18 FAILURE Payment gateway timed out
+2025-08-17 13:36:23 INFO Health check passed
+2025-08-17 13:36:28 FAILURE Payment gateway timed out
+2025-08-17 13:36:33 ERROR Database connection failed
+2025-08-17 13:36:38 ERROR Database connection failed
+2025-08-17 13:36:43 INFO Application started successfully
+2025-08-17 13:36:48 INFO Application started successfully
